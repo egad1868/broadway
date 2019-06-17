@@ -29,17 +29,18 @@ h3 {
   height: 300px;
 }
 
-.menu a {
+.menu li a {
   font-size: 18px;
   color: white;
   list-style-type: none;
   }
 
-.footer {
+.footer menu{
   font-size: 11px;
   color: white;
   background-color: dimgray;
   text-align: left;
+  display: inline-block;
 }
 
 .divider {
