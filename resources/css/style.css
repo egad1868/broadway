@@ -56,8 +56,7 @@ h3 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
   background-repeat: no-repeat;
   background-position: top;
-  background-size: contain;
-  width: 100%;
+  padding: 10px;
 }
 
 .copy {
