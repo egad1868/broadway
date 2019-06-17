@@ -23,14 +23,13 @@ h3 {
 }
 
 .header {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url("../resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
   height: 300px;
 }
 
-.menu {
+.menu a {
   font-size: 18px;
   color: white;
   list-style-type: none;
@@ -47,6 +46,6 @@ h3 {
   color: white;
   background-image: url("resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
   background-size: contain;
 }
