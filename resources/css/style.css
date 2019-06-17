@@ -29,10 +29,12 @@ h3 {
   height: 300px;
 }
 
-.menu li a {
+.menu li {
   font-size: 18px;
-  color: white;
   list-style-type: none;
+    a {
+      color: white;
+    }
   }
 
 .footer {
@@ -40,10 +42,12 @@ h3 {
   color: white;
   background-color: dimgray;
   text-align: left;
-  display: inline-block;
   width: 100%;
 }
 
+.footer ul {
+  display: inline-block;
+}
 .divider {
   color: white;
   background-image: url("resources/images/the-flatiron-building.png");
