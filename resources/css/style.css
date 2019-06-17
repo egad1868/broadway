@@ -23,7 +23,7 @@ h3 {
 }
 
 .header {
-  background-image: url("/resources/images/the-flatiron-building.png");
+  background-image: url("./resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-position: center;
   height: 280px;
