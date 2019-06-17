@@ -32,9 +32,10 @@ h3 {
 .menu ul li {
   font-size: 18px;
   list-style-type: none;
-    a {
-      color: white;
-    }
+  }
+
+.menu ul li a {
+    color: white;
   }
 
 .footer {
@@ -45,7 +46,7 @@ h3 {
   width: 100%;
 }
 
-.footer ul li {
+.footer menu ul li {
   display: inline-block;
 }
 .divider {
