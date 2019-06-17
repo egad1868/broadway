@@ -29,7 +29,7 @@ h3 {
   height: 300px;
 }
 
-.menu li {
+.menu ul li {
   font-size: 18px;
   list-style-type: none;
     a {
@@ -45,7 +45,7 @@ h3 {
   width: 100%;
 }
 
-.footer ul {
+.footer ul li {
   display: inline-block;
 }
 .divider {
