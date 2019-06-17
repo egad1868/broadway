@@ -53,8 +53,12 @@ h3 {
 }
 .divider {
   color: white;
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url(resources/images/the-flatiron-building.png);
   background-repeat: no-repeat;
   background-position: top;
   background-size: contain;
+}
+
+.copy {
+  float: left;
 }
