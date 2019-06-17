@@ -23,18 +23,19 @@ h3 {
 }
 
 .header {
-  background-image: url("../resources/images/the-flatiron-building.png");
+  background-image: url("/resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-position: center;
-  height: 300px;
+  height: 280px;
+  padding: 10px;
 }
 
-.menu ul li {
+.menu li {
   font-size: 18px;
   list-style-type: none;
   }
 
-.menu ul li a {
+.menu li a {
     color: white;
   }
 
@@ -44,9 +45,10 @@ h3 {
   background-color: dimgray;
   text-align: left;
   width: 100%;
+  padding: 10px;
 }
 
-.footer menu ul li {
+.footer ul.menu li {
   display: inline-block;
 }
 .divider {
