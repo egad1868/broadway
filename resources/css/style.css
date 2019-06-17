@@ -26,7 +26,7 @@ h3 {
   background-image: url("resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: cover;
   height: 300px;
 }
 
