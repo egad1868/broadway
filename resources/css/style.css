@@ -41,6 +41,7 @@ h3 {
   background-color: dimgray;
   text-align: left;
   display: inline-block;
+  width: 100%;
 }
 
 .divider {
