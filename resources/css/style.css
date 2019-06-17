@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-size: 14px;
   color: black;
+  width:100%;
 }
 
 h1 {
@@ -26,11 +27,13 @@ h3 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
+  height: 300px;
 }
 
 .menu {
   font-size: 18px;
   color: white;
+  list-style-type: none;
   }
 
 .footer {
